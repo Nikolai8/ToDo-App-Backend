@@ -4,7 +4,7 @@ A full-stack task management application with a **Spring Boot REST API backend**
 
 ## 📋 Project Overview
 
-**ToDo-App** is a complete web application that allows users to create, read, update, and delete (CRUD) todo items with customizable priorities. The project demonstrates best practices in building scalable REST APIs, database design, and frontend integration.
+**ToDo-App** is a complete web application that allows users to create, read, update, and delete (CRUD) todo items with customizable priorities. The project demonstrates best practices in building [...]
 
 The application was designed to showcase:
 - Backend API design with Spring Boot and Spring Data JPA
@@ -48,10 +48,10 @@ The application was designed to showcase:
 - **Build Tool**: Create React App
 
 ### Languages in Repository
-- JavaScript: 42.7%
-- Java: 22.6%
-- CSS: 20.5%
-- HTML: 14.2%
+- JavaScript
+- Java
+- CSS
+- HTML
 
 ## 📱 Requirements
 
